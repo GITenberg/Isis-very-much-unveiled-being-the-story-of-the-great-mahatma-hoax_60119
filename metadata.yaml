@@ -1,5 +1,8 @@
 _repo: Isis-very-much-unveiled-being-the-story-of-the-great-mahatma-hoax_60119
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60119-h/images/cover.jpg
 creator:
   author:
     agent_name: Garrett, Edmund H. (Edmund Henry)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32199
     wikipedia: http://en.wikipedia.org/wiki/Edmund_H._Garrett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60119#Isis-very-much-unveiled-being-the-story-of-the-great-mahatma-hoax
 gutenberg_issued: '2019-08-17'
 gutenberg_type: Text
 identifiers:
